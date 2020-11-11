@@ -12,5 +12,4 @@ cask "canon-print-studio-pro" do
   pkg "Print Studio Pro #{version.no_dots}.pkg"
 
   uninstall pkgutil: "com.Canon.PrintStudioPro.*"
-  
 end
